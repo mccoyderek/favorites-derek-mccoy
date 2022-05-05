@@ -1,3 +1,20 @@
-p {
-    background-color: aqua;
+h1, h2, ol   {
+    color: red;
 }
+
+body {
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+.center {
+    
+    display: flex;
+    justify-content: center;
+    }
